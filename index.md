@@ -4,3 +4,8 @@
 ``` git 
 $ git init
 ```
+
+
+- [X]  First Task
+- [X] Second Task
+- [ ] Third Task 
